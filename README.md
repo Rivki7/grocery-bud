@@ -1,6 +1,6 @@
 # Grocery Bud React Project
 
-![Go to live demo](link)
+![Go to live demo](https://grocery-bud-rivki.netlify.app/)
 
 ## Overview
 
